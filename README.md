@@ -2,7 +2,8 @@
 This repository presents a comprehensive business analysis of Uber, a leading public technology-driven transportation company. It highlights and evaluates Uber’s business performance during the period 2024–2025.
 
 # Executive Dasboard
-<img width="1606" height="858" alt="Screenshot 2026-09-01 011625" src="https://github.com/user-attachments/assets/fad9c1c7-9f63-4264-980d-9c019061c17a" />
+<img width="1691" height="856" alt="image" src="https://github.com/user-attachments/assets/546ff4f3-b795-4fbb-995d-81e01f769db3" />
+
 
 # Mobility & Analytics
 <img width="1690" height="847" alt="Screenshot 2026-09-01 011649" src="https://github.com/user-attachments/assets/d6e52822-327a-40e5-b9c4-653dd5f63471" />
