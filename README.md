@@ -24,9 +24,10 @@ The dashboard focuses on answering practical business questions such as:
 🔹 Business & Financial Analytics
 
 # Executive Dasboard
-<img width="1691" height="856" alt="image" src="https://github.com/user-attachments/assets/546ff4f3-b795-4fbb-995d-81e01f769db3" />
+<img width="1480" height="800" alt="image" src="https://github.com/user-attachments/assets/4ce830eb-1c6a-4379-8398-185fce7f1459" />
+
 
 
 # Mobility & Analytics
-<img width="1690" height="847" alt="Screenshot 2026-09-01 011649" src="https://github.com/user-attachments/assets/d6e52822-327a-40e5-b9c4-653dd5f63471" />
+<img width="1565" height="792" alt="image" src="https://github.com/user-attachments/assets/6cbb13c9-5e3a-43a3-b8e5-675f8aa3b0eb" />
 
